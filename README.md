@@ -15,8 +15,10 @@ These Jupyter notebooks provide visualization and modeling techniques to study t
 
 ## Installation
 
+Download the Jupyter notebook, you will need to install Python and a suite of dependencies for it to run my code. I suggest using pip for all dependencies metioned in the first code cell.
+
 ```
-Download the Jupyter notebook, you will need to install Python and a suite of dependencies for it to run my code. I suggest using `pip install`for all dependencies metioned in the first code cell.
+pip install numpy pandas scikit-learn matplotlib scipy
 ```
 
 ## License
